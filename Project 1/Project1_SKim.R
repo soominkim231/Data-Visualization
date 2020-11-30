@@ -51,7 +51,7 @@ ggplot(df1,
        x = "Age Groups",
        y = "Scale (%)")
 
-ggsave("figure/figure1.pdf", width = 13, height = 8)
+ggsave("figure/Project1_figure.pdf", width = 13, height = 8)
 
 
 
