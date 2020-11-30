@@ -142,5 +142,5 @@ plot10b <- ggplot() +
 grid.arrange(plot10w, plot10b)
 
 p <- arrangeGrob(plot10w, plot10b)
-ggsave(filename = "figure/Project2figure.pdf",
+ggsave(filename = "figure/Project2_figure.pdf",
        plot = p, width = 10, height = 7.5)
