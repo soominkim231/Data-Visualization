@@ -1,9 +1,13 @@
 # QSS17-Data-Visualization
 Data visualization projects I've worked on from QSS 17: Data Visualization at Dartmouth.
 
+## Project 1
+Visualized a figure discplaying the perceived level of democracy in the U.S. Political System by Democrats and Republicans of Different Age Groups. Data Source: YouGov General Public Survey (Sept. '17)
 
+## Project 2
+Visualized a map showing Top 10 states attended by Undergraduates students by race (White vs. African Americans)
 
-## 3) Project 3
+## Project 3
 Visualized a figure displaying an upward trend in the global mean percentage of Gross Domestic Product (GDP) on health expenditures for all income groups from 1996 to 2014, with the high-income group showing the highest %, followed by the middle and low-income groups.
 
 ### In Detail:
