@@ -1,19 +1,19 @@
 # QSS17: Data Visualization (R)
-Data visualization projects I worked on as part of QSS 17: Data Visualization at Dartmouth.
+Selected Data Visualization Projects I worked on as part of QSS 17: Data Visualization at Dartmouth.
 
-## Project 1
+## Session 1
 Bar plot displaying the perceived level of democracy in the U.S. Political System by Democrats and Republicans of Different Age Groups. 
 Data Source: YouGov General Public Survey (Sept. '17)
 
-## Project 2
+## Session 2
 Map showing Top 10 states attended by Undergraduates students by race (White vs. African Americans).
 
-## Project 3
+## Session 3
 Map showing Top 5 counties in Maryland for Drug and Alcohol Related Intoxication Deaths in 2007 and 2016.
 
-## Project 4
-1. Stacked bar plot showing demographic composition of university factulty by race/ethnicity, over 1992 to 2015.
-2. Bar plot showing the percentage of university faculty who are female out of (a) "all faculty" / (b) "full professors"
+## Session 4
+1) Stacked bar plot showing demographic composition of university factulty by race/ethnicity, over 1992 to 2015.
+2) Bar plot showing the percentage of university faculty who are female out of (a) "all faculty" / (b) "full professors"
 
 ## Project 5
 Line graphs displaying an upward trend in the global mean percentage of Gross Domestic Product (GDP) on health expenditures for all income groups from 1996 to 2014, with the high-income group showing the highest %, followed by the middle and low-income groups.
