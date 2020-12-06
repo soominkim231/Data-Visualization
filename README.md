@@ -1,4 +1,4 @@
-# QSS17-Data-Visualization (R)
+# QSS17: Data Visualization (R)
 Data visualization projects I worked on as part of QSS 17: Data Visualization at Dartmouth.
 
 ## Project 1
