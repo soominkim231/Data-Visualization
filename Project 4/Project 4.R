@@ -1,10 +1,8 @@
 ## Data Visualization (GOVT16-QSS17) Fall 2017
 ## Data Visualization with ggplot2, Part 3
-## Session 6, Key
+## Project 4, Key
 ##
 ## Name: Soomin Kim
-## Date: October 3, 2017
-
 
 # Initial Settings --------------------------------------------------------
 
@@ -60,7 +58,7 @@ ggplot(df1, aes(x = year,
        x = "Year",
        fill = "Race/Ethnicity")
 
-ggsave("figure/Session6_figure1.pdf", scale = 0.8, width = 10, height = 7.5)
+ggsave("figure/Project4_figure1.pdf", scale = 0.8, width = 10, height = 7.5)
 
 
 # Figure 2 ----------------------------------------------------------------
@@ -85,4 +83,4 @@ ggplot(df2, aes(x = year,
        x = "Year",
        fill = "none")
 
-ggsave("figure/Session6_figure2.pdf", scale = 0.8, width = 10, height = 7.5)
+ggsave("figure/Project4_figure2.pdf", scale = 0.8, width = 10, height = 7.5)
